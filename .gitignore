@@ -1,10 +1,12 @@
 # InteliJ
 *.iml
-*/.idea/*
+**/.idea/**
 
 # Java compiled class files
 *.class
 
 # misc
-*/.DS_Store
+**/.DS_Store
 .DS_Store
+
+**/node_modules/**
