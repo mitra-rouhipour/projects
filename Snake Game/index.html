@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body id="body">
+    <canvas id="drawingCanvas" width = "720" height = "600" style="border-style: solid"></canvas>
+    <div id="info">
+    Score: <span id="score"></span> <br/>
+    Lives: <span id="lives"></span> <br/>
+    Prize: <span id="prize"></span> <br/>
+    <audio id="bonusSound">
+        <source src="bonus.wav" type="audio/wav">
+      </audio>
+      <audio id="hitSound">
+        <source src="hit.wav" type="audio/wav">
+      </audio>
+      <audio id="startSound">
+          <source src="start.wav" type="audio/wav">
+      </audio>
+
+    <script src="code.js"></script>
+    <button class="button" onclick="StartGame()">New Game</button>
+    </div>
+      
+</body>
+</html>
