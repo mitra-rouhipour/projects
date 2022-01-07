@@ -7,7 +7,8 @@ and the color of prize's text is also chagned.
 The player has 5 lives and score is accumulated. Each time the player hit the wall or an obstcles or even itself then the player loose a live.
 When lives is zero then the game is over, and a message is shown on the canvas.
 Obstcles are satic and they do not change. Walls are also obstcles*.
-## skills in this game:
+
+## Skills in this game:
 - JavaScript syntax
 - Object Oriented
 - Animation and Intervals
@@ -15,3 +16,6 @@ Obstcles are satic and they do not change. Walls are also obstcles*.
 - Events, Event Handlers, Listeners
 - HTML 
 - CSS
+
+![alt text](https://github.com/mitra-rouhipour/projects/blob/main/Snake%20Game/snakeGame.jpg "Screenshot")
+
