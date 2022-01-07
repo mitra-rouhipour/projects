@@ -1,0 +1,10 @@
+# InteliJ
+*.iml
+*/.idea
+
+# Java compiled class files
+*.class
+
+# misc
+*/.DS_Store
+.DS_Store
