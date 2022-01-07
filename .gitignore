@@ -1,6 +1,6 @@
 # InteliJ
 *.iml
-*/.idea
+*/.idea/*
 
 # Java compiled class files
 *.class
