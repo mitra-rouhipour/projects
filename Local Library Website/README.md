@@ -8,3 +8,5 @@ This is an Application to manage records of a local library, using Node.js, Expr
 - Model Control View artitecture design
 - Using MongoDB data base and mongoose package 
 - Routing and HTTP Request
+
+![alt text](1.jpg "Screenshot")

@@ -7,4 +7,3 @@ This program use DataInputStream class connect to the socket’s input stream, a
 - Object Oriented and Inheritence
 - Multithreaded Server
 - Socket
-https://github.com/mitra-rouhipour/projects/blob/main/GUI%20Application/1.jpg
