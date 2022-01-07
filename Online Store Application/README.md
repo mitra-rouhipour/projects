@@ -1,4 +1,4 @@
-## Online Store Application
+## Online Store Application [Hosted](https://m-cloth-store.netlify.app/)
 This is a front-end application using react libraries to add a 
 new product into the store base on its name, price, category, size 
 , and color. The main feauture of this application is a form to inser 
@@ -9,6 +9,7 @@ Furtheremore there are two buttons, for increment and decrement the
 counter by using redux as global variables.Also, the Clear All Task 
 button can clear the local storage. And finally there is a navBar by 
 using Routing on top of the application.
+
 
 ## The Main Features OF This App:
 - Created Seven Components in React app and props between local variables and components
