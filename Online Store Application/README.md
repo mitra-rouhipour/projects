@@ -1,4 +1,4 @@
-## Online Store Application [Hosted](https://m-cloth-store.netlify.app/)
+## Online Store Application [Hosted on Netlify](https://m-cloth-store.netlify.app/)
 This is a front-end application using react libraries to add a 
 new product into the store base on its name, price, category, size 
 , and color. The main feauture of this application is a form to inser 
