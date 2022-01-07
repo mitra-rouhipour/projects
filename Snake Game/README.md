@@ -17,5 +17,5 @@ Obstcles are satic and they do not change. Walls are also obstcles*.
 - HTML 
 - CSS
 
-![alt text](https://github.com/mitra-rouhipour/projects/blob/main/Snake%20Game/snakeGame.jpg "Screenshot")
+![alt text](snakeGame.jpg "Screenshot")
 

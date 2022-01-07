@@ -17,5 +17,5 @@ using Routing on top of the application.
 - Used global state by using Redux for implementing Increment and Decrement Buttons
 - Created client-site routing for a single page
 
-![alt text](https://github.com/mitra-rouhipour/projects/blob/main/Online%20Store%20Application/1.jpg "Screenshot")
+![alt text](1.jpg "Screenshot")
             

@@ -6,3 +6,7 @@ This application has some radio buttons to rotate the animal or a tree from a ba
 - Java syntax and related libraries
 - Object oriented and inheritence
 - events, event handlers, listeners
+
+![alt text](1.jpg "Screenshot")
+![alt text](2.jpg "Screenshot")
+
